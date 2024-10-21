@@ -1,11 +1,7 @@
 # Proyecto2-EDA-Ingresos-Publicos-Brasil
-<div style="text-align: center;">
-  <img src="https://github.com/Hack-io-Data/Imagenes/blob/main/01-LogosHackio/logo_naranja@4x.png?raw=true" alt="esquema" />
-</div>
 
 
-![imagen](imagenes/image.webp)
-
+![brasil](https://github.com/user-attachments/assets/7eb29ca5-1e5f-474a-9ccf-d5f9e9988e32)
 
 # Proyecto: **Análisis de la Ejecución de Ingresos Públicos en Brasil**
 
