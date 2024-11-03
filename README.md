@@ -42,9 +42,12 @@ Hemos creado un entorno llamado Webscraping para el siguiente proyecto.
       
 ## 🛠️ Instalación y Requisitos
 
-NumPy: https://numpy.org/doc/
+NumPy: https://numpy.org/doc/.
+
 Pandas: https://pandas.pydata.org/docs/
+
 Matplotlib.pyplot: https://matplotlib.org/stable/api/pyplot_summary.html
+
 Seaborn: https://seaborn.pydata.org/
 
 
