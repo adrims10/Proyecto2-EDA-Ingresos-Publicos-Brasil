@@ -23,21 +23,20 @@ Performance by agency and managing unit: Evaluate which agencies or managing uni
 # 🗂️ Project Structure
 We have created an environment called Webscraping for the following project.
 
-├── notebooks/                    # Jupyter notebooks where you can find: 
+
+
+
+    ├── notebooks/                  # Jupyter notebooks where you can find: 
                                   1.Data preparation file 
                                   2.Cleaning file 
                                   3.Analysis and visualization file 
+    ├── src/                       # CSV reading support 
+    ├─  Datos                      # Data, CSV files of the study 
+    ├─  Presentacion-conclusiones  # Conclusions and presentation file
+    ├── README.md                  # Project description 
+    ├── README.md                  # Project description in English
+
                         
-├── src/                          # CSV reading support 
-
-├─ Datos                         # Data, CSV files of the study 
-
-├─ Presentation-conclusions      # Conclusions and presentation file 
-
-├── README.md                    # Project description 
-
-├── README.md                     # Project description in English
-
 # 🛠️ Installation and Requirements
 NumPy: https://numpy.org/doc/ 
 
