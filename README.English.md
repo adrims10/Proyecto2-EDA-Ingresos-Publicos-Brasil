@@ -1,4 +1,4 @@
-#Project2-EDA-Public-Revenues-Brazil
+# Proyecto2-EDA-Ingresos-Publicos-Brasil
 ![brasil](https://github.com/user-attachments/assets/7ba6d5d5-19bd-4a9b-affa-2a2f0f10f664)
 Welcome!
 
