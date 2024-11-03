@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 Proyecto: Análisis de la Ejecución de Ingresos Públicos en Brasil
+=======
+# Proyecto2-EDA-Ingresos-Publicos-Brasil
+>>>>>>> 5c1126b3928ef7e5497c7ee54f01c1e4a431255e
 
 Bienvenidos!
 
+<<<<<<< HEAD
 Es un placer recibirlos
 
 En qué consiste:
 ¡Bienvenidos a un nuevo proyecto! Esta vez, vamos a realizar un análisis de la ejecución de ingresos públicos en Brasil, examinando los datos históricos entre 2013 y 2021. Nuestro objetivo es identificar patrones, detectar áreas problemáticas y proponer recomendaciones para mejorar la precisión de las previsiones y la eficiencia de la recaudación.
+=======
+![brasil](https://github.com/user-attachments/assets/7eb29ca5-1e5f-474a-9ccf-d5f9e9988e32)
+>>>>>>> 5c1126b3928ef7e5497c7ee54f01c1e4a431255e
 
 Objetivos del Proyecto:
 Limpieza de datos: Resolver problemas comunes como valores nulos, formatos inconsistentes y duplicados.
