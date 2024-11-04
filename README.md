@@ -36,7 +36,6 @@ Hemos creado un entorno llamado Webscraping para el siguiente proyecto.
                                         3.Archivo de analisis y visualizacion.
         ├── src/                       # Soporte de lectura de csv.
         ├─  Datos                      # Datos, archivos csv del estudio.
-        ├─  Presentacion-conclusiones  #archivo de conclusiones y presentacion
         ├── README.md                  # Descripción del proyecto
         ├── README.md                  # Descripción del proyecto en idioma ingles.
       
@@ -63,7 +62,7 @@ Visualización: Generar gráficos que permitan identificar tendencias y patrones
 
 **Resultados , Conclusiones**
 
-Podemos observar las conclusiones mas importantes en el documento Presentacion-Conclusiones.
+Podemos observar las conclusiones mas importantes en el documento Visualizacion en los notebooks.
 
 - **Próximos Pasos**
 
