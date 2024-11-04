@@ -32,7 +32,6 @@ We have created an environment called Webscraping for the following project.
                                   3.Analysis and visualization file 
     ├── src/                       # CSV reading support 
     ├─  Datos                      # Data, CSV files of the study 
-    ├─  Presentacion-conclusiones  # Conclusions and presentation file
     ├── README.md                  # Project description 
     ├── README.md                  # Project description in English
 
@@ -57,7 +56,7 @@ Visualization: Generate graphs to identify relevant trends and patterns in the a
 
 Results, Conclusions
 
-We can see the most important conclusions in the Presentation-Conclusions document.
+We can see the most important conclusions in the document Visualization in the notebooks.
 
 **Next Steps**
 
